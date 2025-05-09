@@ -32,5 +32,3 @@ The default LightGBM model achieved a recall of 0.945 on the test data, indicati
 The best-performing LightGBM model was saved for future use, enabling easy deployment and reproducibility. Persisting the model allows integration into production environments where it can provide real-time spam detection. It is advisable to implement monitoring for performance degradation and data drift post-deployment. Regular retraining should be scheduled to maintain effectiveness. Incorporating explainability tools will support transparency and user trust. Additionally, compliance with data privacy and security standards must be ensured when handling email data in operational settings.
 
 ---
-
-If you need these paragraphs adapted further or formatted differently, please let me know!
